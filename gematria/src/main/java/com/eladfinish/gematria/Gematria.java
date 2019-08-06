@@ -104,4 +104,8 @@ public class Gematria {
         return str;
     }
 
+
+    public static void main(String[] args) {
+        System.out.println(getOtiot(123));
+    }
 }

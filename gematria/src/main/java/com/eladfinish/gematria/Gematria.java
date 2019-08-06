@@ -2,6 +2,7 @@ package com.eladfinish.gematria;
 
 
 public class Gematria {
+
     //    gematria, gimatria
     // convert number to hebrew letters
     public static String getOtiot(int num) {
@@ -105,7 +106,7 @@ public class Gematria {
     }
 
 
-    public static void main(String[] args) {
-        System.out.println(getOtiot(123));
-    }
+//    public static void main(String[] args) {
+//        System.out.println(getOtiot(123));
+//    }
 }

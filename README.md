@@ -30,6 +30,9 @@ dependencies {
 
 ## Usage
 ```java
-System.out.println(Gematria.getOtiot(123)); // -> קכג
-System.out.println(Gematria.gematriaWord("תשעט")); // -> 779
+System.out.println(Gematria.getOtiot(123));
+// -> קכג
+
+System.out.println(Gematria.gematriaWord("תשעט"));
+// -> 779
 ```
